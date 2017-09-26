@@ -1,0 +1,24 @@
+{
+  "name": "intro-nodejs",
+  "version": "1.0.0",
+  "description": "a simple intro to nodejs package",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Code-Immersives/intro-nodejs.git"
+  },
+  "keywords": [
+    "intro",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "toneloke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Code-Immersives/intro-nodejs/issues"
+  },
+  "homepage": "https://github.com/Code-Immersives/intro-nodejs#readme"
+}
